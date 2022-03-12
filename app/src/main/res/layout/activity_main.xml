@@ -21,7 +21,7 @@
     </com.google.android.material.appbar.AppBarLayout>
 
     <include layout="@layout/content_main" />
-    <!-- Грига изменил 1
+    <!-- Грига изменил 1 22
     -->
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/fab"
